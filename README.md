@@ -1,5 +1,15 @@
 # MTN-Customer-Retention-Churn-Insights-
 Insightful Power BI report on MTN’s customer churn, satisfaction, and revenue impact.
+## Table of Content
+1. Project Overview
+2. Data Source
+3. Importance of the Project
+4. Tools
+5. Data Overview
+6. Analysis Breakdown
+7. Data Visualization
+8. Recommendation
+
 ## Project Overview
 This Power BI project provides deep insights into MTN’s customer retention and churn trends.  
 It identifies why customers leave, which demographics are most affected, and how satisfaction levels and devices influence retention.  
@@ -69,4 +79,21 @@ The analysis was carried out in Power BI following a structured, end-to-end proc
 <img width="763" height="447" alt="mtn" src="https://github.com/user-attachments/assets/28d88abe-992c-4277-a92c-f3d60fb93353" />
 
 
-Serves as a real-world Power BI project showcasing advanced analytical and storytelling skills.
+
+
+## Recommendations
+Based on the churn analysis, the following actions are recommended to help MTN improve customer retention:
+1. Enhance Network Quality
+  + Invest in stronger and more reliable network infrastructure, especially in areas with high churn rates.
+2. Review Pricing Strategy
+  + Offer flexible and affordable data plans to retain cost-sensitive customers.
+3. Introduce Loyalty Programs
+  + Reward long-term customers with discounts or exclusive offers to build stronger brand loyalty.
+4. Improve Customer Support Experience
+  + Provide quicker and more responsive customer service channels to address complaints before they lead to churn.
+5. Target High-Risk Segments
+  + Focus retention campaigns on the 36–45 age group, which shows the highest churn rate.
+6. Monitor Churn Trends Monthly
+  + Continuously track churn performance and satisfaction rates using dashboards to identify early warning signs.
+
+
